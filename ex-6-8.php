@@ -14,7 +14,8 @@ function tab() {
             $positif++;
             
         }
-    }       echo "$negatif sont negatif \n";
-            echo "$positif sont positif";
+    }       
+    echo "$negatif sont negatif \n";
+    echo "$positif sont positif";
 }
 tab();
